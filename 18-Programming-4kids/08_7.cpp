@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+ // number divisble by 3 
 int main() {
 	int end;
 	cin >> end;
